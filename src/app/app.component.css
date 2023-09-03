@@ -1,0 +1,42 @@
+.valid-statement {
+    margin: 10px; 
+    float: left;
+}
+
+.table-header {
+    float: right;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-top: 20px;
+}
+
+.button-remove-rows {
+    background-color: red;
+    padding-left: 25px;
+    padding-right: 25px;
+    margin-right: 10px;
+}
+
+.button-add-row {
+    background-color: #4c942c;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+table {
+    width: 100%;
+    margin: auto;
+    border: solid white 10px;
+}
+
+.btn-edit {
+    float: right;
+}
+
+.button-remove {
+    color: red;
+}
+
+.button-remove:hover {
+    color: red;
+}
